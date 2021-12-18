@@ -1,5 +1,5 @@
-#include <SoftwareSerial.h> 
-#include <AFMotor.h>       // L293D 모터 드라이브 라이브러리
+#include <SoftwareSerial.h> //l293d 모터 드라이브 라이브러리
+#include <AFMotor.h>       // 서보모터 라이브러리
  
 AF_DCMotor motor_1(1);     // 모터 1 객체         
  
